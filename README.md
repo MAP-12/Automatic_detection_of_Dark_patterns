@@ -5,7 +5,9 @@ There is only done some small changes with regard to language and what is looked
 
 # Prerquisites
 Python 3.9+
+//
 MongoDB
+\\
 Poetry package manager for python.
 Chrome installed and added to path.
 ChromeDriver for Selenium installed and added to path, see: https://chromedriver.chromium.org/getting-started 
