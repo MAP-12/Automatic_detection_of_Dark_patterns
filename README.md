@@ -4,8 +4,8 @@ Most of the problems you may encounter come from the scraper. If you are not int
 There is only done some small changes with regard to language and what is looked for in settings page. Therefore I advice any questions regarding the scraper to be sent to them.
 
 # Prerquisites
-Python 3.9+__
-MongoDB__
+Python 3.9+  
+MongoDB <br />
 \\
 Poetry package manager for python.
 Chrome installed and added to path.
