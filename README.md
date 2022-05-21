@@ -21,3 +21,6 @@ Then run with python main.py <br />
 Set the connection in the notebook to connect to the MongoDB collection you used for the scraper <br />
 Install the needed library <br />
 You can now run the notebook, the file cookienotices.csv is the result from the investigation and can be ignored if not of intrest.
+
+IF there is a wish to run the analyzyser/classification without haveing to run the scraper there is also possible to send me an mail here: mariuspedersen51@gmail.com
+and I can send you the screenshots from the scraper. It should be noted however that the zipped file of all the screenshots have a size of 1.6GB
